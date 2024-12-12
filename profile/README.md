@@ -18,7 +18,7 @@
 
 # Table of Content
 
-- [About SMARTGIZI](#about-mushscope)
+- [About Mushscope](#about-mushscope)
 - [Background](#background)
 - [Goal & Aim](#goal--aim)
 - [Features](#features)
